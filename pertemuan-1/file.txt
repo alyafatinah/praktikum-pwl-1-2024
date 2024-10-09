@@ -4,4 +4,4 @@ Npm : 5520122010
 Zodiac : Capricorn
 
 
-#tugas commit 1
+#tugas commit 2
